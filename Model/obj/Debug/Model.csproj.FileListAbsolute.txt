@@ -1,0 +1,57 @@
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\Model.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\Model.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\obj\Debug\Model.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\Model\obj\Debug\Model.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\Model.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\Model.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\obj\Debug\Model.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\obj\Debug\Model.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\obj\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\Model\obj\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\obj\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\Model\obj\Debug\Model.pdb
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\Model.dll
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\Model.pdb
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Storage\Storage\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Storage\Storage\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Storage\Storage\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Storage\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\User\Desktop\Storage\Storage\Model\obj\Debug\Model.dll
+C:\Users\User\Desktop\Storage\Storage\Model\obj\Debug\Model.pdb

@@ -1,0 +1,83 @@
+[19:15:17] Application opened
+
+[19:15:37] Updated client NAME: elliot da
+
+[19:15:42] Deleted client NAME: ivvv vl
+
+[19:16:09] Added client NAME: john white
+
+[19:16:15] Added +1 quantity to TYPE: [game], NAME: [test]
+
+[19:16:15] Added +1 quantity to TYPE: [game], NAME: [test]
+
+[19:16:17] TYPE: [game], NAME: [test]'s stock quantity has been deducted by 1
+
+[19:16:17] TYPE: [game], NAME: [test]'s stock quantity has been deducted by 1
+
+[19:16:22] Set TYPE: [aqsdas], NAME: [sad] quantity to 0
+
+[19:16:36] Added stock NAME: namen TYPE:type
+
+[19:16:43] Updated stock NAME: namen TYPE:type
+
+[19:16:52] Deleted TYPE: [576], NAME: [567] from stock
+
+[19:17:10] Application closed
+
+[19:17:55] $Application opened
+
+[19:18:02] $Updated stock NAME: namen TYPE:type
+
+[19:18:04] $Application closed
+
+[19:18:41] $Application opened
+
+[19:18:44] $Added +1 quantity to TYPE: [das], NAME: [saas]
+
+[19:18:44] $Added +1 quantity to TYPE: [das], NAME: [saas]
+
+[19:18:45] $TYPE: [das], NAME: [saas]'s stock quantity has been deducted by 1
+
+[19:18:45] $TYPE: [das], NAME: [saas]'s stock quantity has been deducted by 1
+
+[19:18:47] $Set TYPE: [das], NAME: [saas] quantity to 0
+
+[19:18:49] $Application closed
+
+[19:31:36] Application opened
+
+[19:31:40] Added +1 quantity to TYPE: game, NAME: test
+
+[19:31:40] Added +1 quantity to TYPE: game, NAME: test
+
+[19:31:41] TYPE: game, NAME: test's stock quantity has been deducted by 1
+
+[19:31:43] Application closed
+
+[19:44:36] Application opened
+
+[19:44:46] Updated stock NAME: testn TYPE:game
+
+[19:44:48] Updated stock NAME: qwrewqn TYPE:1241234
+
+[19:44:50] Added +1 quantity to TYPE: 1241234, NAME: qwrewq
+
+[19:44:51] TYPE: 1241234, NAME: qwrewq's stock quantity has been deducted by 1
+
+[19:44:55] Set TYPE: dfsds, NAME: fdsfdsf quantity to 0
+
+[19:45:11] Sold stock costing 50.00$ to elliot. ----------------- ITEMS:
+Item name: test, Item type: game, Item price per stock: 0.00$, Sold quantity: 1
+Item name: sfda, Item type: sdfa, Item price per stock: 25.00$, Sold quantity: 1
+Item name: name, Item type: type, Item price per stock: 5.00$, Sold quantity: 5
+
+[19:45:13] Application closed
+
+[22:44:18] Application opened
+
+[22:44:22] Application closed
+
+[23:08:28] Application opened
+
+[23:08:30] Application closed
+

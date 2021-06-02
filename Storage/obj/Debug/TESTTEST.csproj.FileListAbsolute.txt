@@ -1,0 +1,164 @@
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\TESTTEST.exe.config
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\TESTTEST.exe
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\TESTTEST.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.AddEditClientForm.resources
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.ClientsShowForm.resources
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.Form1.resources
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.MainForm.resources
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.Properties.Resources.resources
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.exe
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\Model.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\Model.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.csproj.CopyComplete
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.StockShowForm.resources
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\TESTTEST\obj\Debug\TESTTEST.AddEDitStockForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\TESTTEST.exe.config
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\TESTTEST.exe
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\TESTTEST.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\Model.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\Model.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.AddEditClientForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.AddEditStockForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.ClientsShowForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.MainForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.Properties.Resources.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.StockShowForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.csproj.CopyComplete
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.exe
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.CheckoutForm.resources
+D:\Github\Proekt4e\TESTTEST\bin\Debug\TESTTEST.exe.config
+D:\Github\Proekt4e\TESTTEST\bin\Debug\TESTTEST.exe
+D:\Github\Proekt4e\TESTTEST\bin\Debug\TESTTEST.pdb
+D:\Github\Proekt4e\TESTTEST\bin\Debug\BusinessLayer.dll
+D:\Github\Proekt4e\TESTTEST\bin\Debug\DataLayer.dll
+D:\Github\Proekt4e\TESTTEST\bin\Debug\EntityFramework.dll
+D:\Github\Proekt4e\TESTTEST\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\Proekt4e\TESTTEST\bin\Debug\Model.dll
+D:\Github\Proekt4e\TESTTEST\bin\Debug\BusinessLayer.pdb
+D:\Github\Proekt4e\TESTTEST\bin\Debug\DataLayer.pdb
+D:\Github\Proekt4e\TESTTEST\bin\Debug\Model.pdb
+D:\Github\Proekt4e\TESTTEST\bin\Debug\Model.dll.config
+D:\Github\Proekt4e\TESTTEST\bin\Debug\EntityFramework.xml
+D:\Github\Proekt4e\TESTTEST\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.csprojAssemblyReference.cache
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.AddEditClientForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.AddEditStockForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.CheckoutForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.ClientsShowForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.MainForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.Properties.Resources.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.StockShowForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.csproj.GenerateResource.cache
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.csproj.CopyComplete
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.exe
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\TESTTEST.exe.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\TESTTEST.exe
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.AddEditClientForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.AddEditStockForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.CheckoutForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.ClientsShowForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.Form1.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.MainForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.StockShowForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.exe
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\TESTTEST\obj\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\TESTTEST.exe.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\TESTTEST.exe
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.AddEditClientForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.AddEditStockForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.CheckoutForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.ClientsShowForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.Form1.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.MainForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.StockShowForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.exe
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCoppy\TESTTEST\obj\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\TESTTEST.exe.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\TESTTEST.exe
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.AddEditClientForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.AddEditStockForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.CheckoutForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.ClientsShowForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.MainForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.StockShowForm.resources
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.exe
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\TESTTEST\obj\Debug\TESTTEST.LoginForm.resources
+D:\Github\Proekt4e\TESTTEST\obj\Debug\TESTTEST.LoginForm.resources
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\TESTTEST\obj\Debug\TESTTEST.LoginForm.resources

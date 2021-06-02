@@ -1,0 +1,81 @@
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\Model.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\Model.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\Model.dll
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\Model.pdb
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\Model.dll.config
+D:\Github\Proekt4e\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Github\Proekt4e\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Github\Proekt4e\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Github\Proekt4e\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Github\Proekt4e\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\Model.dll
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\Model.pdb
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\Storage\Storage\BusinessLayer\obj\Debug\BusinessLayer.pdb

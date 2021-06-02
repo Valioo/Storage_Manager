@@ -1,0 +1,69 @@
+[18:29:27] Application opened
+
+[18:29:36] Added +1 quantity to TYPE: хляб, NAME: бял
+
+[18:29:37] TYPE: хляб, NAME: бял's stock quantity has been deducted by 1
+
+[18:29:45] Added +1 quantity to TYPE: хляб, NAME: бял
+
+[18:30:40] Application closed
+
+[18:50:45] Application opened
+
+[18:50:49] Unsuccessfull update/delete 
+
+[18:50:53] Unsuccessfull update/delete 
+
+[18:51:08] Application closed
+
+[18:52:05] Application opened
+
+[18:52:11] Added stock: 1, :1
+
+[18:52:23] Updated stock: 1, :1
+
+[18:52:27] Application closed
+
+[18:55:42] Application opened
+
+[18:55:48] Updated stock: 1, :x
+
+[18:56:12] Updated client: 5 Петров
+
+[18:56:19] Updated client: 5 Петров
+
+[18:56:23] Unsuccessfull update/delete 
+
+[18:57:00] Application closed
+
+[18:57:08] Application opened
+
+[18:57:13] Unsuccessfull update/delete 
+
+[18:57:30] Unsuccessfull update/delete 
+
+[18:57:34] Unsuccessfull update/delete 
+
+[18:58:49] Application opened
+
+[18:59:26] Sold stock costing 20.00$ to 5. ----------------- ITEMS:
+Item name: бял, Item type: хляб, Item price per stock: $20.00, Sold quantity: 1
+
+[18:59:49] Updated client: ivan Петров
+
+[19:00:02] Application closed
+
+[19:11:45] Application opened
+
+[19:11:47] Application closed
+
+[19:14:31] Application opened
+
+[19:14:40] Deleted TYPE: хляб, NAME: бял from stock
+
+[19:14:43] Application closed
+
+[19:20:13] Application opened
+
+[19:20:37] Application closed
+

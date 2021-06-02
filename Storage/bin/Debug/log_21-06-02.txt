@@ -1,0 +1,25 @@
+[15:03:10] Application opened
+
+[15:03:12] Application closed
+
+[15:03:30] Application opened
+
+[15:04:23] Added client: Ivan Ivanov
+
+[15:04:27] Deleted client NAME: ivan Петров
+
+[15:04:31] TYPE: вода, NAME: минерална's stock quantity has been deducted by 1
+
+[15:04:37] Added +1 quantity to TYPE: вода, NAME: изворна
+
+[15:04:41] Set TYPE: вода, NAME: изворна's quantity to 0
+
+[15:05:14] Updated stock: вафли, :сладки
+
+[15:05:22] Deleted TYPE: вода, NAME: изворна from stock
+
+[15:05:37] Sold stock costing 1.00$ to Ivan Ivanov. ----------------- ITEMS:
+Item name: минерална, Item type: вода, Item price per stock: $1.00, Sold quantity: 1
+
+[15:05:39] Application closed
+

@@ -1,0 +1,81 @@
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\Model.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\Model.pdb
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\User\Desktop\TESTTESTTEST\Raboti\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\Model.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\Model.pdb
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\User\Desktop\KOPIE ZA RABOTA\Raboti\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopyFinal\DataLayer\obj\Debug\DataLayer.pdb
+D:\Github\Proekt4e\DataLayer\bin\Debug\DataLayer.dll
+D:\Github\Proekt4e\DataLayer\bin\Debug\DataLayer.pdb
+D:\Github\Proekt4e\DataLayer\bin\Debug\EntityFramework.dll
+D:\Github\Proekt4e\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\Proekt4e\DataLayer\bin\Debug\Model.dll
+D:\Github\Proekt4e\DataLayer\bin\Debug\Model.pdb
+D:\Github\Proekt4e\DataLayer\bin\Debug\Model.dll.config
+D:\Github\Proekt4e\DataLayer\bin\Debug\EntityFramework.xml
+D:\Github\Proekt4e\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\Proekt4e\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Github\Proekt4e\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Github\Proekt4e\DataLayer\obj\Debug\DataLayer.dll
+D:\Github\Proekt4e\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\Model.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\Model.pdb
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\Model.dll.config
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Ryzen\Desktop\proekt\Proekt44eCopy\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\Model.dll
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\Model.pdb
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Storage\Storage\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Storage\Storage\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Storage\Storage\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Storage\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\User\Desktop\Storage\Storage\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\User\Desktop\Storage\Storage\DataLayer\obj\Debug\DataLayer.pdb
